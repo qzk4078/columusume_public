@@ -7,3 +7,4 @@ Zキー：石の順番入れ替え<br/>
 
 <img src="/pyxel-20250108-213716.gif">
 
+BGMは[frenchbread](https://x.com/frenchbread1222)さん作の[8bit BGM generator](https://github.com/shiromofufactory/8bit-bgm-generator)を利用させて頂き作成しました。
