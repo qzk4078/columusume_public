@@ -1,10 +1,12 @@
 # コラ娘<br/>
-Pyxelで作った落ち物パズルです。<br/>
+[Pyxel](https://github.com/kitao/pyxel)を利用させて頂き作成した落ち物パズルです。<br/>
 縦、横、斜めに同じ色の石を3つ以上並べると消えていくどこかで見たようなルールです。<br/>
 
 カーソルキー ← →：横移動<br/>
 カーソルキー ↓：高速落下、石が消える演出のスキップ<br/>
 Zキー：石の順番入れ替え<br/>
+
+スマホでもバーチャルゲームパッドで遊べます。<br/>
 
 [ブラウザで遊ぶ](https://kitao.github.io/pyxel/wasm/launcher/?play=qzk4078.columusume_public.columusume&gamepad=enabled&packages=numpy)
 
